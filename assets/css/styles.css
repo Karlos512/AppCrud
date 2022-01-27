@@ -1,0 +1,17 @@
+#cabeceratable{
+	background-color: black;
+	color: white;
+}
+
+img{
+    width: 25px;
+}
+
+.containersesion{
+	width: 650px;
+}
+
+.containersesion img{
+	width: 90px;
+	margin-bottom: 20px;
+}
